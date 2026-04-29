@@ -412,6 +412,11 @@ https://github.com/user-attachments/assets/aed4c628-520a-4d96-8b8f-e546f0f04b56
 
 ### Flux administrateur (Web)
 
+
+https://github.com/user-attachments/assets/feaafb21-cfae-4380-8dc4-b3115db6e5ad
+
+
+
 ```
 1. Login admin
        ↓
