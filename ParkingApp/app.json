@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "ParkingApp",
+    "slug": "parkingapp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "plugins": [
+      "@react-native-community/datetimepicker"
+    ]
+  }
+}
