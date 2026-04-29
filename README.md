@@ -3,9 +3,7 @@
 > **Projet de Fin de Module (PFM) — ENS Marrakech, Département Informatique**  
 > Module : Mobile 2 — Applications Multi-Plateformes Orientées Services
 
-
-https://github.com/user-attachments/assets/aed4c628-520a-4d96-8b8f-e546f0f04b56
-
+<img width="1887" height="882" alt="image" src="https://github.com/user-attachments/assets/bca39b1e-5235-4380-986a-d830bfffd359" />
 
 ---
 
@@ -395,6 +393,8 @@ MAIL_FROM="ParkCampus <votre.email@gmail.com>"
 ## 🎬 Démonstration
 
 ### Flux utilisateur (Mobile)
+
+https://github.com/user-attachments/assets/aed4c628-520a-4d96-8b8f-e546f0f04b56
 
 ```
 1. Inscription / Connexion
