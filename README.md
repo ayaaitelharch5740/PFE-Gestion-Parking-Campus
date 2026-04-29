@@ -1,7 +1,11 @@
 # 🅿️ ParkCampus — Système de Gestion de Parking
 
-> **Projet de Fin d'Études (PFE) — ENS Marrakech, Département Informatique**  
+> **Projet de Fin de Module (PFM) — ENS Marrakech, Département Informatique**  
 > Module : Mobile 2 — Applications Multi-Plateformes Orientées Services
+
+
+https://github.com/user-attachments/assets/aed4c628-520a-4d96-8b8f-e546f0f04b56
+
 
 ---
 
@@ -451,13 +455,13 @@ MAIL_FROM="ParkCampus <votre.email@gmail.com>"
 
 **Encadrant :** MOHAMED LACHGAR  
 **Établissement :** École Normale Supérieure de Marrakech — Département Informatique  
-**Année universitaire :** 2024–2025
+**Année universitaire :** 2025–2026
 
 ---
 
 ## 📄 Licence
 
-Ce projet est réalisé dans le cadre d'un Projet de Fin d'Études à l'ENS Marrakech.  
+Ce projet est réalisé dans le cadre d'un Projet de Fin de Module à l'ENS Marrakech.  
 Usage académique uniquement.
 
 ---
